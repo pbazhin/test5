@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+    background-color: white;
+    width: 600px;
+}
+h1 {
+    text-align: center;
+}
+main img {
+     text-align: center;
+}
+header a {
+    text-decoration: none;
+    border: 1px solid rgb(47, 255, 0);
+    background-color: rgb(103, 255, 136);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+header {
+    margin-top: 20px;
+}
+header img {
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 500px;
+}
+
